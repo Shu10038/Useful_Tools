@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-bayesian_hierarchical.py
+calc_bayesian_hierarchical.py
 Created on Dec 12 2023
 
 @author: S.O
